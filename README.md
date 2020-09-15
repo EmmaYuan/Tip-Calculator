@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Everything went pretty smoothly except when I first pulled my updated README file, my outdated commit overwrote all the changes. Luckily I stashed the code before pulling so it was all good :))
 
 ## License
 
